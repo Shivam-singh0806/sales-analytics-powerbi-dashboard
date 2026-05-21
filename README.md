@@ -53,13 +53,13 @@ Implemented Star Schema Architecture including:
 ## Project Screenshots
 
 ### Executive Summary
-![Executive Summary](Screenshots/ExecutiveSummary.png)
+![Executive Summary](Screenshots/Executive Summary.png)
 
 ### Customer Insights
-![Customer Insights](Screenshots/CustomerInsights.png)
+![Customer Insights](Screenshots/Customer Insights.png)
 
 ### Profitability Diagnostics
-![Profitability Diagnostics](Screenshots/ProfitabilityDiagnostics.png)
+![Profitability Diagnostics](Screenshots/Profitability Diagnostics.png)
 
 ---
 
